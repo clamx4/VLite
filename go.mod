@@ -35,7 +35,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 // indirect
 	github.com/txthinking/runnergroup v0.0.0-20200327135940-540a793bb997 // indirect
-	github.com/txthinking/x v0.0.0-20200330144832-5ad2416896a9 // indirect
+	github.com/txthinking/x v0.0.0-20240301021728-6f68aba84c87
 	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
