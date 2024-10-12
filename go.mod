@@ -1,4 +1,4 @@
-module github.com/xiaokangwang/VLite
+module github.com/clamx4/VLite
 
 go 1.21.4
 
